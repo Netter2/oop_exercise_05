@@ -1,0 +1,49 @@
+1.Execute command "push"
+2.Execute command "pop"
+3.Execute command "top"
+4.Show stack
+5.Move iterator to the next element
+6.Move iterator to the first element
+7.Move iterator to the last element
+8.Add element in iterator position
+9.Erase element in iterator position
+10.Print the number of objects with an area less than the specified one
+0.Exit
+Choose option: 1
+Insert center coordinates: 0 0
+Insert radius: 1
+Choose option: 3
+----------
+A = (0,1)
+B = (0.882948,0.469472)  
+C = (0.71934,-0.694658)  
+D = (-0.438371,-0.898794)
+E = (-0.990268,0.139173) 
+----------
+Choose option: 2
+Choose option: 1
+Insert center coordinates: 0 0
+Insert radius: 1
+Choose option: 4
+vvvvvvvvvv
+----------
+A = (0,1)
+B = (0.882948,0.469472)  
+C = (0.71934,-0.694658)  
+D = (-0.438371,-0.898794)
+E = (-0.990268,0.139173) 
+----------
+^^^^^^^^^^
+Choose option: 8
+Insert center coordinates: 2 2 5
+Insert radius: Choose option: 5
+Iterator out of range
+Choose option: 9
+Choose option: 4
+----------
+A = (0,1)
+B = (0.882948,0.469472)
+C = (0.71934,-0.694658)
+D = (-0.438371,-0.898794)
+E = (-0.990268,0.139173)
+----------
